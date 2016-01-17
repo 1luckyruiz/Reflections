@@ -5,3 +5,4 @@ How is the staging area different from the working directory and the repository?
 the staging area is the area of focus in your project for whatever it is that you are currently working on, all files in the repository obviously work together to complete the entire project, but the staging area is what is currently in focus.
 just making another line change on 6
 How can you use the staging area to make sure you have one commit per logical change? by running the "git diff" command in git bash you can see what file modifications have been made before the commit is made.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help? branches would help if your trying out something experimental that you may or may not to keep permenately with the final program
