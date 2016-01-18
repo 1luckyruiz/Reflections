@@ -7,3 +7,4 @@ just making another line change on 6
 How can you use the staging area to make sure you have one commit per logical change? by running the "git diff" command in git bash you can see what file modifications have been made before the commit is made.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help? branches would help if your trying out something experimental that you may or may not to keep permenately with the final program.
 How do the diagrams help you visualize the branch structure? it helps to see which ways different commits can be associated with one another with parent commits.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?we represent the branches to show which way the program flows together
